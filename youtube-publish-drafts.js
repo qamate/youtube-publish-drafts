@@ -9,8 +9,8 @@
     // -----------------------------------------------------------------
     // ~ PUBLISH CONFIG
     // -----------------------------------------------------------------
-    const MADE_FOR_KIDS = false; // true / false;
-    const VISIBILITY = 'Public'; // 'Public' / 'Private' / 'Unlisted'
+    const MADE_FOR_KIDS = true; // true / false;
+    const VISIBILITY = 'Unlisted'; // 'Public' / 'Private' / 'Unlisted'
     // -----------------------------------------------------------------
     // ~ SORT PLAYLIST CONFIG
     // -----------------------------------------------------------------
